@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\linno\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\linno\\.nuget\\packages"
+    ]
+  }
+}
